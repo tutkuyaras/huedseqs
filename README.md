@@ -26,5 +26,5 @@
 For functional annotation, the [GO FEAT](https://github.com/fabriciopa/gofeat) tool is used for all of us to use it easily and for interface convenience.
 #### Visualization
 Finally, the [MLCUT](https://bivi.co/visualisation/mlcut) tool is used to further enrich the visualization. 
- 
- 
+![MLCUT visualization example.](https://bivi.co/sites/default/files/styles/portfolio_fullwidth/public/hoxHCA_PC.png?itok=s54Ma_GQ "This is a MLCUT visualization example")
+
